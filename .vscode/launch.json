@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CrowdShipping App",
+            "request": "launch",
+            "mainClass": "CrowdShippingApp",
+            "projectName": "CrowdShippingApp",
+            "classPaths": ["bin", "lib/*"],
+            "console": "internalConsole",
+            "vmArgs": [
+                "-Dfile.encoding=UTF-8"
+            ]
+        }
+    ]
+}
